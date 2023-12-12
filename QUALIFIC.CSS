@@ -1,4 +1,52 @@
-.certificaçao{
-    width: 20%;
+.imagem ,.imagem1{
+    width: 500px;
+
+}
+.certificaçao {
+    display:inline-flex;
+}
+
+.imagem-az {
+    width: 500px;
+}
+.azure {
+display: inline-flex;
+
+
+}
+.imagem-az1{
+    width: 500px;
+}
+.imagem-az2{
+    width: 500px;
+}
+.imagem-az3{
+    width: 500px;
+}
+.azure-2 {
     display: inline-flex;
+}
+.imagem-az4{
+    width: 500px;
+}
+.imagem-az5{
+    width: 500px;
+}
+.imagem-az6{
+    width: 500px;
+}
+.imagem-az7{
+    width: 500px;
+}
+.azure-3 {
+    display: inline-flex;
+}
+.imagem-az8 {
+    width: 500px;
+}
+.imagem-az9 {
+    width: 500px;
+}
+.imagem-lin {
+    width: 500px;
 }
