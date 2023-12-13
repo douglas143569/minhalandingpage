@@ -1,3 +1,12 @@
+
+*{
+    text-align: center;
+}
+
+
+
+
+
 .logo{
    
         font-size: 24px;
@@ -19,10 +28,15 @@
     height: 8vh;
     
     }
-    .nav-list li {
+    .nav-list li  {
+        text-align: center;
         letter-spacing:3px;
-        margin-left: 32px;
+     margin-left: 32px;
     }
     .desenvh3 {
         color: blueviolet;
     }
+    body{
+        background-image: url(images/);
+    }
+  
