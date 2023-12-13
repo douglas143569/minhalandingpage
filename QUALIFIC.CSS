@@ -67,6 +67,18 @@ display: inline-flex;
 .imagem-html{
     width: 500px;
 }
+.logo{
+   
+    font-size: 24px;
+    text-transform: uppercase;
+letter-spacing: 4px;
+}
+.nav-list {
+    list-style: none;
+    display: flex;
+}
+
+
 nav {
     display: flex;
     justify-content: space-around;
@@ -75,4 +87,11 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
 background: #23232e;
 height: 8vh;
 
+}
+.nav-list li {
+    letter-spacing:3px;
+    margin-left: 32px;
+}
+.desenvh3 {
+    color: blueviolet;
 }
